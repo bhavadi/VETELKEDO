@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\OSSZ\INFO\VETELKEDO\VETELKEDO\bin\Debug\VETELKEDO.exe.config
+C:\Users\User\Desktop\OSSZ\INFO\VETELKEDO\VETELKEDO\bin\Debug\VETELKEDO.exe
+C:\Users\User\Desktop\OSSZ\INFO\VETELKEDO\VETELKEDO\bin\Debug\VETELKEDO.pdb
+C:\Users\User\Desktop\OSSZ\INFO\VETELKEDO\VETELKEDO\obj\Debug\VETELKEDO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OSSZ\INFO\VETELKEDO\VETELKEDO\obj\Debug\VETELKEDO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OSSZ\INFO\VETELKEDO\VETELKEDO\obj\Debug\VETELKEDO.exe
+C:\Users\User\Desktop\OSSZ\INFO\VETELKEDO\VETELKEDO\obj\Debug\VETELKEDO.pdb
